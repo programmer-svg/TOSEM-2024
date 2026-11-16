@@ -1,0 +1,84 @@
+{
+	"name": "lsp-web-extension-sample",
+	"description": "A language server in a web extension",
+	"author": "Microsoft Corporation",
+	"license": "MIT",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-extension-samples"
+	},
+	"publisher": "vscode-samples",
+	"categories": [],
+	"keywords": [
+		"multi-root ready"
+	],
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"browser": "./client/dist/browserClientMain",
+	"contributes": {
+		"languages": [
+			{
+				"id": "metaCRL",
+				"extensions": [
+					".mc"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"configuration": [
+			{
+				"order": 22,
+				"id": "lsp-web-extension-sample",
+				"title": "lsp-web-extension-sample",
+				"properties": {
+					"lsp-web-extension-sample.trace.server": {
+						"type": "string",
+						"scope": "window",
+						"enum": [
+							"off",
+							"messages",
+							"verbose"
+						],
+						"default": "verbose",
+						"description": "Traces the communication between VS Code and the lsp-web-extension-sample language server."
+					}
+				}
+			}
+		],
+		"configurationDefaults": {
+			"[metaCRL]": {
+				"editor.semanticHighlighting.enabled": true
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "webpack",
+		"watch": "webpack --watch",
+		"package": "webpack --mode production --devtool hidden-source-map",
+		"lint": "eslint ./client/src ./server/src --ext .ts,.tsx",
+		"postinstall": "cd client && npm install && cd ../server && npm install && cd ..",
+		"chrome": "npm run compile && vscode-test-web --browserType=chromium --extensionDevelopmentPath=. ./test-data",
+		"test": "vscode-test-web --extensionDevelopmentPath=. --extensionTestsPath=dist/web/test/suite/index.js"
+	},
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.42.0",
+		"@typescript-eslint/parser": "^5.42.0",
+		"@vscode/test-web": "^0.0.49",
+		"antlr4ts-cli": "^0.5.0-alpha.4",
+		"eslint": "^8.26.0",
+		"path-browserify": "^1.0.1",
+		"ts-loader": "^9.3.0",
+		"typescript": "^5.1.3",
+		"webpack": "^5.44.0",
+		"webpack-cli": "^4.7.2"
+	},
+	"dependencies": {
+		"antlr4-c3": "^3.0.1",
+		"antlr4ts": "^0.5.0-alpha.4",
+		"node-polyfill-webpack-plugin": "^2.0.1",
+		"fuzzysort": "^2.0.4"
+	}
+}

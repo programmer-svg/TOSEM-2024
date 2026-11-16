@@ -1,0 +1,40 @@
+{
+  "integration": "CRL is tracked directly under languages/crl as an ASTI-only selection. Java and Soufflé are unmodified submodules pinned to the supplied archived commits.",
+  "sources": [
+    {
+      "language": "CRL",
+      "repository": "https://github.com/programmer-svg/TOSEM-2024",
+      "branch": "main",
+      "commit": "6ae43bfd1cfd64276d878d8d6aa3f70fc96ca65e",
+      "directory": "languages/crl",
+      "tracked_files": 364,
+      "integration": "tracked-directory",
+      "original_tracked_files": 573,
+      "modifications": [
+        "Retain the ASTI implementation and measurements; remove the other implementation and its measurement files.",
+        "Retain the ASTI prediction pipeline and remove comparison workflows.",
+        "Clear removed comparison sections in result workbooks while preserving ASTI values, formulas, and cell coordinates.",
+        "Update CRL documentation and select archived ASTI inputs in the feature-importance script."
+      ]
+    },
+    {
+      "language": "Java",
+      "repository": "https://github.com/starrrrgazer/java-language-server",
+      "branch": "ljy",
+      "commit": "04e8f14f38f994672b039f7168b611860ec78724",
+      "directory": "languages/java",
+      "tracked_files": 1712,
+      "integration": "submodule"
+    },
+    {
+      "language": "Soufflé",
+      "repository": "https://github.com/starrrrgazer/souffle-lsp-plugin",
+      "branch": "master",
+      "commit": "be679c6f9a2a142c08e61fae09bfb9b09dc120eb",
+      "directory": "languages/souffle",
+      "tracked_files": 1197,
+      "integration": "submodule"
+    }
+  ],
+  "revision_selection": "Java and Soufflé revisions were selected from the archived local checkouts supplied by the repository owner. The source checkouts track origin/ljy and origin/master, respectively."
+}

@@ -1,0 +1,925 @@
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc function:validateTextDocument duration:218
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:undefined character:undefined function:handleSemanticTokens duration:60
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:7119 character:20 function:getHover duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:14239 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:7119 character:20 function:getDefinition duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:14239 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:9
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:0 character:4 function:getRename duration:9
+function:getPosition duration:0
+function:getInfoArray duration:8
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:7112 character:4 function:getRename duration:8
+function:getPosition duration:0
+function:getInfoArray duration:9
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:14238 character:6 function:getRename duration:9
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:2
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:undefined character:undefined function:getSelectionRange duration:2
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:14240 character:1 function:getCompletionInfos duration:2
+vscode-test-web://mount/RQ3new_0_14242_2003_14001_69166_35_7.mc line:14241 character:11 function:getCompletionInfos duration:3
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc function:validateTextDocument duration:187
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:undefined character:undefined function:handleSemanticTokens duration:49
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:6696 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:13382 character:4 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:6696 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:13382 character:4 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:8
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:0 character:4 function:getRename duration:8
+function:getPosition duration:0
+function:getInfoArray duration:7
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:6695 character:4 function:getRename duration:7
+function:getPosition duration:0
+function:getInfoArray duration:7
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:13370 character:4 function:getRename duration:7
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:13384 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_13386_1921_13434_65134_35_7.mc line:13385 character:11 function:getCompletionInfos duration:3
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc function:validateTextDocument duration:203
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:undefined character:undefined function:handleSemanticTokens duration:47
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:6575 character:20 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:1
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:13146 character:4 function:getHover duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:6575 character:20 function:getDefinition duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:13146 character:4 function:getDefinition duration:1
+function:getPosition duration:0
+function:getInfoArray duration:8
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:0 character:4 function:getRename duration:8
+function:getPosition duration:0
+function:getInfoArray duration:8
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:6581 character:4 function:getRename duration:8
+function:getPosition duration:0
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:13145 character:46 function:getRename duration:2
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:2
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:undefined character:undefined function:getSelectionRange duration:2
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:13148 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_13150_1842_12952_63866_34_7.mc line:13149 character:11 function:getCompletionInfos duration:3
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc function:validateTextDocument duration:163
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:undefined character:undefined function:handleSemanticTokens duration:49
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:5976 character:8 function:getHover duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:11939 character:8 function:getHover duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:5976 character:8 function:getDefinition duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:11939 character:8 function:getDefinition duration:1
+function:getPosition duration:0
+function:getInfoArray duration:7
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:0 character:4 function:getRename duration:7
+function:getPosition duration:0
+function:getInfoArray duration:7
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:5980 character:4 function:getRename duration:7
+function:getPosition duration:1
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:11943 character:53 function:getRename duration:2
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:11957 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_11959_1764_11780_57412_35_7.mc line:11958 character:11 function:getCompletionInfos duration:3
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc function:validateTextDocument duration:157
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:undefined character:undefined function:handleSemanticTokens duration:44
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:5794 character:16 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:11586 character:4 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:5794 character:16 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:1
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:11586 character:4 function:getDefinition duration:1
+function:getPosition duration:0
+function:getInfoArray duration:7
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:0 character:4 function:getRename duration:7
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:5808 character:39 function:getRename duration:1
+function:getPosition duration:0
+function:getInfoArray duration:7
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:11584 character:6 function:getRename duration:7
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:11588 character:1 function:getCompletionInfos duration:2
+vscode-test-web://mount/RQ3new_0_11590_1682_11551_56458_33_7.mc line:11589 character:11 function:getCompletionInfos duration:3
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc function:validateTextDocument duration:152
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:undefined character:undefined function:handleSemanticTokens duration:37
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:5535 character:4 function:getHover duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:11070 character:0 function:getHover duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:5535 character:4 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:1
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:11070 character:0 function:getDefinition duration:1
+function:getPosition duration:0
+function:getInfoArray duration:6
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:0 character:4 function:getRename duration:6
+function:getPosition duration:0
+function:getInfoArray duration:6
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:5540 character:4 function:getRename duration:6
+function:getPosition duration:0
+function:getInfoArray duration:6
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:11069 character:6 function:getRename duration:7
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:2
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:undefined character:undefined function:getSelectionRange duration:2
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:11071 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_11073_1603_10924_53328_34_7.mc line:11072 character:11 function:getCompletionInfos duration:2
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc function:validateTextDocument duration:135
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:undefined character:undefined function:handleSemanticTokens duration:37
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:5184 character:20 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:10364 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:5184 character:20 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:10364 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:6
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:0 character:4 function:getRename duration:6
+function:getPosition duration:0
+function:getInfoArray duration:6
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:5210 character:4 function:getRename duration:6
+function:getPosition duration:0
+function:getInfoArray duration:5
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:10344 character:6 function:getRename duration:5
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:2
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:undefined character:undefined function:getSelectionRange duration:2
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:10368 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_10370_1524_10018_49527_34_7.mc line:10369 character:11 function:getCompletionInfos duration:2
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc function:validateTextDocument duration:132
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:undefined character:undefined function:handleSemanticTokens duration:51
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:4899 character:16 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:9796 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:4899 character:16 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:9796 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:5
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:0 character:4 function:getRename duration:5
+function:getPosition duration:0
+function:getInfoArray duration:5
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:4916 character:4 function:getRename duration:5
+function:getPosition duration:0
+function:getInfoArray duration:6
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:9770 character:4 function:getRename duration:6
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:9799 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_9801_1441_9677_47526_34_7.mc line:9800 character:11 function:getCompletionInfos duration:2
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc function:validateTextDocument duration:125
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:undefined character:undefined function:handleSemanticTokens duration:37
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:1
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:4783 character:8 function:getHover duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:9530 character:16 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:4783 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:9530 character:16 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:6
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:0 character:4 function:getRename duration:6
+function:getPosition duration:0
+function:getInfoArray duration:6
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:4774 character:6 function:getRename duration:6
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:9535 character:60 function:getRename duration:1
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:9565 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_9567_1363_9174_46072_34_7.mc line:9566 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc function:validateTextDocument duration:118
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:undefined character:undefined function:handleSemanticTokens duration:35
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:4595 character:12 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:9188 character:20 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:4595 character:12 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:9188 character:20 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:5
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:0 character:4 function:getRename duration:5
+function:getPosition duration:1
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:4611 character:39 function:getRename duration:2
+function:getPosition duration:0
+function:getInfoArray duration:5
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:9160 character:4 function:getRename duration:5
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:9193 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_9195_1285_9087_44434_35_7.mc line:9194 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc function:validateTextDocument duration:119
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:undefined character:undefined function:handleSemanticTokens duration:25
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:1 character:4 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:4461 character:16 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:8888 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:1 character:4 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:4461 character:16 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:8888 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:0 character:39 function:getRename duration:2
+function:getPosition duration:0
+function:getInfoArray duration:5
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:4478 character:4 function:getRename duration:5
+function:getPosition duration:1
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:8897 character:60 function:getRename duration:2
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:8921 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_8923_1204_8767_43744_36_7.mc line:8922 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc function:validateTextDocument duration:100
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:undefined character:undefined function:handleSemanticTokens duration:18
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:55 character:0 function:getHover duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:3849 character:32 function:getHover duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:7696 character:20 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:55 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:3849 character:32 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:7696 character:20 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:0 character:38 function:getRename duration:1
+function:getPosition duration:0
+function:getInfoArray duration:5
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:3868 character:4 function:getRename duration:5
+function:getPosition duration:0
+function:getInfoArray duration:4
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:7668 character:4 function:getRename duration:4
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:7701 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_7703_1121_7787_37234_38_7.mc line:7702 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc function:validateTextDocument duration:94
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:undefined character:undefined function:handleSemanticTokens duration:17
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:3683 character:32 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:7366 character:12 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:3683 character:32 function:getDefinition duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:7366 character:12 function:getDefinition duration:1
+function:getPosition duration:0
+function:getInfoArray duration:4
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:0 character:4 function:getRename duration:4
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:3702 character:38 function:getRename duration:1
+function:getPosition duration:0
+function:getInfoArray duration:4
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:7332 character:4 function:getRename duration:4
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:7370 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_7372_1041_7381_35601_37_7.mc line:7371 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc function:validateTextDocument duration:88
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:undefined character:undefined function:handleSemanticTokens duration:16
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:3472 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:6899 character:20 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:3472 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:6899 character:20 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:4
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:0 character:4 function:getRename duration:4
+function:getPosition duration:0
+function:getInfoArray duration:4
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:3471 character:4 function:getRename duration:4
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:6904 character:59 function:getRename duration:1
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:6934 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_6936_964_6908_33607_36_7.mc line:6935 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc function:validateTextDocument duration:86
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:undefined character:undefined function:handleSemanticTokens duration:15
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:3252 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:6503 character:12 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:3252 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:6503 character:12 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:4
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:0 character:4 function:getRename duration:4
+function:getPosition duration:0
+function:getInfoArray duration:4
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:3255 character:4 function:getRename duration:4
+function:getPosition duration:0
+function:getInfoArray duration:3
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:6469 character:4 function:getRename duration:3
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:6507 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_6509_883_6299_31902_36_7.mc line:6508 character:11 function:getCompletionInfos duration:2
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc function:validateTextDocument duration:73
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:undefined character:undefined function:handleSemanticTokens duration:16
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:2879 character:16 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:5757 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:2879 character:16 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:5757 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:3
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:0 character:4 function:getRename duration:3
+function:getPosition duration:0
+function:getInfoArray duration:3
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:2887 character:4 function:getRename duration:3
+function:getPosition duration:1
+function:getInfoArray duration:3
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:5746 character:4 function:getRename duration:4
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:5760 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_5762_801_5684_28111_36_7.mc line:5761 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc function:validateTextDocument duration:72
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:undefined character:undefined function:handleSemanticTokens duration:12
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:2746 character:32 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:5492 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:2746 character:32 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:5492 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:3
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:0 character:4 function:getRename duration:3
+function:getPosition duration:0
+function:getInfoArray duration:4
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:2765 character:4 function:getRename duration:4
+function:getPosition duration:0
+function:getInfoArray duration:3
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:5483 character:6 function:getRename duration:3
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:5495 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_5497_721_5492_27051_38_7.mc line:5496 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc function:validateTextDocument duration:55
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:undefined character:undefined function:handleSemanticTokens duration:8
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:2262 character:4 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:4516 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:2262 character:4 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:4516 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:0 character:4 function:getRename duration:2
+function:getPosition duration:0
+function:getInfoArray duration:3
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:2264 character:4 function:getRename duration:3
+function:getPosition duration:0
+function:getInfoArray duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:4520 character:45 function:getRename duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:4526 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_4528_643_4278_21519_35_7.mc line:4527 character:11 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc function:validateTextDocument duration:48
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:undefined character:undefined function:handleSemanticTokens duration:7
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:1932 character:12 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:3861 character:4 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:1932 character:12 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:3861 character:4 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:0 character:4 function:getRename duration:2
+function:getPosition duration:1
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:1936 character:4 function:getRename duration:3
+function:getPosition duration:0
+function:getInfoArray duration:3
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:3849 character:4 function:getRename duration:3
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:3863 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_3865_564_3799_18436_34_7.mc line:3864 character:11 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc function:validateTextDocument duration:43
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:undefined character:undefined function:handleSemanticTokens duration:6
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:1665 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:3322 character:20 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:1665 character:8 function:getDefinition duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:3322 character:20 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:0 character:4 function:getRename duration:2
+function:getPosition duration:0
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:1654 character:4 function:getRename duration:2
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:3327 character:45 function:getRename duration:1
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:3333 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_3335_481_3205_16044_34_7.mc line:3334 character:11 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc function:validateTextDocument duration:35
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:undefined character:undefined function:handleSemanticTokens duration:5
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:31 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:1397 character:20 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:2789 character:16 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:31 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:1397 character:20 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:2789 character:16 function:getDefinition duration:0
+function:getPosition duration:1
+function:getInfoArray duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:0 character:37 function:getRename duration:1
+function:getPosition duration:0
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:1406 character:4 function:getRename duration:2
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:2750 character:4 function:getRename duration:1
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:1
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:undefined character:undefined function:getSelectionRange duration:1
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:2794 character:1 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_2796_403_2856_13696_36_7.mc line:2795 character:11 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc function:validateTextDocument duration:27
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:undefined character:undefined function:handleSemanticTokens duration:3
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:1121 character:4 function:getHover duration:0
+function:getPosition duration:1
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:2242 character:4 function:getHover duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:1121 character:4 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:2242 character:4 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:2
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:0 character:4 function:getRename duration:2
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:1118 character:4 function:getRename duration:1
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:2239 character:4 function:getRename duration:1
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:2244 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_2246_321_2200_10634_36_7.mc line:2245 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc function:validateTextDocument duration:21
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:undefined character:undefined function:handleSemanticTokens duration:3
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:15 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:861 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:1695 character:20 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:15 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:861 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:1695 character:20 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:0 character:37 function:getRename duration:0
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:860 character:4 function:getRename duration:1
+function:getPosition duration:0
+function:getInfoArray duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:1701 character:58 function:getRename duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:1725 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_1727_242_1671_8195_34_7.mc line:1726 character:11 function:getCompletionInfos duration:1
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc function:validateTextDocument duration:12
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:undefined character:undefined function:handleSemanticTokens duration:2
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:549 character:8 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:1097 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:549 character:8 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:1097 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:0 character:4 function:getRename duration:1
+function:getPosition duration:0
+function:getInfoArray duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:552 character:37 function:getRename duration:0
+function:getPosition duration:0
+function:getInfoArray duration:1
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:1096 character:6 function:getRename duration:1
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:1098 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_1100_162_1074_5254_33_7.mc line:1099 character:11 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc function:validateTextDocument duration:6
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:undefined character:undefined function:handleSemanticTokens duration:1
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:1 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:235 character:0 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:469 character:4 function:getHover duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:1 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:235 character:0 function:getDefinition duration:0
+function:getPosition duration:0
+function:findInSymbolTable duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:469 character:4 function:getDefinition duration:0
+function:getPosition duration:0
+function:getInfoArray duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:0 character:4 function:getRename duration:0
+function:getPosition duration:0
+function:getInfoArray duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:234 character:5 function:getRename duration:0
+function:getPosition duration:0
+function:getInfoArray duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:457 character:4 function:getRename duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+function:getPosition duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:undefined character:undefined function:getSelectionRange duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:471 character:1 function:getCompletionInfos duration:0
+vscode-test-web://mount/RQ3new_0_473_84_467_2251_27_7.mc line:472 character:11 function:getCompletionInfos duration:0
